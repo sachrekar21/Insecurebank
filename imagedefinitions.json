@@ -1,6 +1,6 @@
 [
     {
-        "name": "i-0abcc8187f3858e05",
+        "name": "ECS Instance - EC2ContainerService-Test",
         "imageUri": "797533870466.dkr.ecr.us-east-1.amazonaws.com/blueprintimages/dependency-check:latest"
     }
 ]
